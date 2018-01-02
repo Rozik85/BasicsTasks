@@ -1,4 +1,4 @@
-package iOOperations.tast2;
+package iOOperations.task2;
 
 /**
  * Napisz program, który wyświetla na ekranie komputera wartość
@@ -7,6 +7,6 @@ package iOOperations.tast2;
  */
 public class ShowPi {
     public static void main(String[] args) {
-        System.out.printf("Pi= "+"%6.5f\n", Math.PI);
+        System.out.printf("Pi= "+"%.5f", Math.PI);
     }
 }
