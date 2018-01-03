@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 import static java.lang.Math.*;
 
+/**
+ * Napisz program, który sprawdza dla trzech boków trójkąta a,
+ b i c wprowadzonych z klawiatury, czy tworzą one trójkąt prostokątny
+ (zakładamy, że a > 0, b > 0, c > 0).
+ */
 public class Triangle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

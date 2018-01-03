@@ -2,6 +2,14 @@ package loops.task3;
 
 import java.util.Scanner;
 
+/**
+ * Napisz program, który oblicza pierwiastki równania kwadratowego
+ ax2+bx+c = 0 z wykorzystaniem instrukcji wyboru switch,
+ gdzie zmienne a, b, c to liczby rzeczywiste wprowadzane z klawiatury.
+ Dla zmiennych a, b, c, x1 oraz x2 należy przyjąć format
+ wyświetlania ich na ekranie z dokładnością do dwóch
+ miejsc po przecinku.
+ */
 public class QuadraticEquationSwtch {
     public static void main(String[] args) {
         double a, b, c, delta, x1, x2;

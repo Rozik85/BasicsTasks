@@ -1,5 +1,9 @@
 package iOOperations.task5;
 
+/**
+ * Napisz program, który oblicza wynik dzielenia całkowitego
+ bez reszty dwóch liczb całkowitych: a = 37 i b = 11.
+ */
 public class Quotient {
     public static void main(String[] args) {
 

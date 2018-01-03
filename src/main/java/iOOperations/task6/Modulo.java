@@ -1,5 +1,9 @@
 package iOOperations.task6;
 
+/**
+ * Napisz program, który oblicza resztę z dzielenia całkowitego
+ dwóch liczb całkowitych: a = 37 i b = 11.
+ */
 public class Modulo {
     public static void main(String[] args) {
         int numberOne = 37;
