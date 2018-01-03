@@ -19,6 +19,6 @@ public class RandomNumber {
             if (number != (int)randomNumber){
                 System.out.println("Nie trafiłeś, poprawna liczba to "+(int)randomNumber);
             }else
-                System.out.println("Brawo trafiłes. Podana liczba:"+number+" jest równa liczbie losowej"+(int)randomNumber);
+                System.out.println("Brawo trafiłes. Podana liczba:"+number+" jest równa liczbie losowej "+(int)randomNumber);
     }
 }
