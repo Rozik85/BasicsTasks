@@ -1,5 +1,9 @@
 package loopDoWhileFor.task6;
 
+/**
+ * Napisz program, który za pomocą instrukcji while wyświetla
+ liczby całkowite od 1 do 20.
+ */
 public class CountingWhile {
     public static void main(String[] args) {
         int i=1;

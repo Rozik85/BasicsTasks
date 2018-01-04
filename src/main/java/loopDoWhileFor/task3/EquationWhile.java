@@ -1,5 +1,10 @@
 package loopDoWhileFor.task3;
 
+/**
+ * Napisz program, który za pomocą instrukcji while dla danych
+ wartości x zmieniających się od 0 do 10 oblicza wartość
+ funkcji y = 3x.
+ */
 public class EquationWhile {
     public static void main(String[] args) {
         int x=0,y=0;

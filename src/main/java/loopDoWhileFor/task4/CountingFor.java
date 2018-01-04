@@ -1,5 +1,9 @@
 package loopDoWhileFor.task4;
 
+/**
+ * Napisz program, który za pomocą instrukcji for wyświetla
+ liczby całkowite od 1 do 20.
+ */
 public class CountingFor {
     public static void main(String[] args) {
         System.out.println("Program wyświetla liczby całkowite od 1 do 20.");
