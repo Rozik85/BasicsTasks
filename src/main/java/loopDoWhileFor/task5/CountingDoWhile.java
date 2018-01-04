@@ -1,10 +1,12 @@
-package loopDoWhileFor.task4;
+package loopDoWhileFor.task5;
 
-public class CountingFor {
+public class CountingDoWhile {
     public static void main(String[] args) {
         System.out.println("Program wyświetla liczby całkowite od 1 do 20.");
-        for (int i = 1; i < 21; i++) {
+        int i=1;
+        do {
             System.out.println(i);
-        }
+            i++;
+        } while (i <= 20);
     }
 }
