@@ -4,7 +4,7 @@ package loopDoWhileFor.task7;
  * Napisz program, który przy użyciu instrukcji for sumuje
  liczby całkowite od 1 do 100.
  */
-public class Sum {
+public class SumFor {
     public static void main(String[] args) {
         int a=0;
         System.out.println("Program sumuje liczby całkowite od 1 do 100");
