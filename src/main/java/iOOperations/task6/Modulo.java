@@ -1,7 +1,7 @@
 package iOOperations.task6;
 
 /**
- * Napisz program, który oblicza resztę z dzielenia całkowitego
+ * 1.6 Napisz program, który oblicza resztę z dzielenia całkowitego
  dwóch liczb całkowitych: a = 37 i b = 11.
  */
 public class Modulo {

@@ -1,7 +1,7 @@
 package loopDoWhileFor.task9;
 
 /**
- * Napisz program, który przy wykorzystaniu instrukcji while
+ * 3.9 Napisz program, który przy wykorzystaniu instrukcji while
  sumuje liczby całkowite od 1 do 100.
  */
 public class SumWhile {

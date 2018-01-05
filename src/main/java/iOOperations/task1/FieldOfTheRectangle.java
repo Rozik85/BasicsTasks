@@ -3,7 +3,7 @@ package iOOperations.task1;
 import java.util.Scanner;
 
 /**
- * Napisz program, który oblicza pole prostokąta. Wartości boków
+ * 1.1 Napisz program, który oblicza pole prostokąta. Wartości boków
  a i b wprowadzamy z klawiatury. W programie należy przyjąć,
  że zmienne a, b oraz pole są typu double (rzeczywistego).
  */

@@ -1,7 +1,7 @@
 package iOOperations.task3;
 
 /**
- * Napisz program, który wyświetla na ekranie komputera pierwiastek
+ * 1.3 Napisz program, który wyświetla na ekranie komputera pierwiastek
  kwadratowy z wartości predefiniowanej π = 3,14…
  Należy przyjąć format wyświetlania pierwiastka kwadratowego
  ze stałej π z dokładnością do dwóch miejsc po przecinku.

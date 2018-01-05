@@ -3,7 +3,7 @@ package loopDoWhileFor.task17;
 import java.util.Random;
 
 /**
- * Napisz program, który za pomocą instrukcji do ... while
+ * 3.17 Napisz program, który za pomocą instrukcji do ... while
  * znajduje największą i najmniejszą liczbę ze zbioru n wylosowanych
  * liczb całkowitych od 0 do 99 (w zadaniu n = 5) oraz
  * oblicza średnią ze wszystkich wylosowanych liczb.

@@ -1,7 +1,7 @@
 package iOOperations.task2;
 
 /**
- * Napisz program, który wyświetla na ekranie komputera wartość
+ * 1.2 Napisz program, który wyświetla na ekranie komputera wartość
  predefiniowanej stałej π = 3,14… Należy przyjąć format wyświetlania
  tej stałej z dokładnością do pięciu miejsc po przecinku.
  */

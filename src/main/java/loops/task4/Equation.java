@@ -3,7 +3,7 @@ package loops.task4;
 import java.util.Scanner;
 
 /**
- * Napisz program, który oblicza wartość x z równania ax+b = c.
+ * 2.4 Napisz program, który oblicza wartość x z równania ax+b = c.
  Wartości a, b i c należą do zbioru liczb rzeczywistych i są
  wprowadzane z klawiatury. Dodatkowo należy zabezpieczyć
  program na wypadek sytuacji, kiedy wprowadzona wartość a
@@ -19,7 +19,7 @@ public class Equation {
         System.out.println("Podaj a");
         a = scanner.nextDouble();
         if (a == 0) {
-            System.out.printf("x = 0");
+            System.out.printf("Niedozwolona wartość a nie może = 0.");
         } else {
             System.out.println("Podaj b");
             b = scanner.nextDouble();

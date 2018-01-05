@@ -1,7 +1,7 @@
 package loopDoWhileFor.task11;
 
 /**
- * Napisz program, który za pomocą instrukcji do ... while sumuje
+ * 3.11 Napisz program, który za pomocą instrukcji do ... while sumuje
  liczby parzyste z przedziału od 1 do 100.
  */
 public class SumEvenDoWhile {

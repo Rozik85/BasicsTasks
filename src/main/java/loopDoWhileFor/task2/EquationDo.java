@@ -1,7 +1,7 @@
 package loopDoWhileFor.task2;
 
 /**
- * .2 Napisz program, który za pomocą instrukcji do ... while dla
+ * 3.2 Napisz program, który za pomocą instrukcji do ... while dla
  danych wartości x zmieniających się od 0 do 10 oblicza wartość
  funkcji y = 3x.
  */

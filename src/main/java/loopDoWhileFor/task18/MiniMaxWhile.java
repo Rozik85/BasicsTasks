@@ -1,13 +1,13 @@
 package loopDoWhileFor.task18;
 
 import java.util.Random;
-
+/**
+ * 3.18 Napisz program, który za pomocą instrukcji while znajduje
+ * największą i najmniejszą liczbę ze zbioru n wylosowanych
+ * liczb całkowitych od 0 do 99 (w zadaniu n
+ */
 public class MiniMaxWhile {
-    /**
-     * 3.18 Napisz program, który za pomocą instrukcji while znajduje
-     * największą i najmniejszą liczbę ze zbioru n wylosowanych
-     * liczb całkowitych od 0 do 99 (w zadaniu n
-     */
+
     public static void main(String[] args) {
         int maximumRange = 99;
         int minimumRange = 0;

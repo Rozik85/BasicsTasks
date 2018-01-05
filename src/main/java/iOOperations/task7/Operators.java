@@ -3,7 +3,7 @@ package iOOperations.task7;
 import java.util.Scanner;
 
 /**
- * Napisz program, który oblicza sumę, różnicę, iloczyn i iloraz
+ * 1.7 Napisz program, który oblicza sumę, różnicę, iloczyn i iloraz
  dla dwóch liczb x i y wprowadzanych z klawiatury. W programie
  należy założyć, że zmienne x i y są typu float (rzeczywistego).
  Dla zmiennych x, y, suma, roznica, iloczyn i iloraz

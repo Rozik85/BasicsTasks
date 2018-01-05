@@ -1,7 +1,7 @@
 package loopDoWhileFor.task8;
 
 /**
- * Napisz program, który korzystając z instrukcji do ... while,
+ * 3.8 Napisz program, który korzystając z instrukcji do ... while,
  sumuje liczby całkowite od 1 do 100.
  */
 public class SumDoWhile {

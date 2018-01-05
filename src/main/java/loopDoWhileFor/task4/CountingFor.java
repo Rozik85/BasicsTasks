@@ -1,7 +1,7 @@
 package loopDoWhileFor.task4;
 
 /**
- * Napisz program, który za pomocą instrukcji for wyświetla
+ * 3.4 Napisz program, który za pomocą instrukcji for wyświetla
  liczby całkowite od 1 do 20.
  */
 public class CountingFor {

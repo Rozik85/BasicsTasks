@@ -1,7 +1,7 @@
 package loopDoWhileFor.task7;
 
 /**
- * Napisz program, który przy użyciu instrukcji for sumuje
+ * 3.7 Napisz program, który przy użyciu instrukcji for sumuje
  liczby całkowite od 1 do 100.
  */
 public class SumFor {

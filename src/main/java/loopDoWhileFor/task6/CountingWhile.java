@@ -1,7 +1,7 @@
 package loopDoWhileFor.task6;
 
 /**
- * Napisz program, który za pomocą instrukcji while wyświetla
+ * 3.6 Napisz program, który za pomocą instrukcji while wyświetla
  liczby całkowite od 1 do 20.
  */
 public class CountingWhile {
