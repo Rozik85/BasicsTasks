@@ -17,7 +17,7 @@ int min=maximumRange+1;
 int max=minimumRange;
 double sum=0;
 double average;
-        System.out.println("Program pokazuje namniejszą i największa liczbę z "+numberOfRandomNumbers+" wylosowwanych " +
+        System.out.println("Program pokazuje namniejszą i największa liczbę oraz średnią z "+numberOfRandomNumbers+" wylosowwanych " +
                 "z przedziału od "+minimumRange+" do "+maximumRange+".");
         Random random = new Random();
         int[] tablica = new int[numberOfRandomNumbers];
