@@ -19,7 +19,7 @@ package objects.task2;
 public class Main {
     public static void main(String[] args) {
         QuadraticEquation quadraticEquation = new QuadraticEquation();
-        quadraticEquation.reed();
+        quadraticEquation.read();
         quadraticEquation.process();
         quadraticEquation.show();
     }

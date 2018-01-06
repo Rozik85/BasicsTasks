@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FieldOblong {
     private double sideA, sideB, field;
 
-    public void reedData() {
+    public void readData() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj długość boku A:");
         sideA = scanner.nextDouble();

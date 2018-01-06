@@ -7,7 +7,7 @@ public class QuadraticEquation {
     double a, b, c, x1, x2, delta;
     char numberOfElements;
 
-    public void reed() {
+    public void read() {
         System.out.println("Program oblicza pierwiastek równania kwadratowego ax^2+bx+c");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj a :");
